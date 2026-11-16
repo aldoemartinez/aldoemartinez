@@ -29,7 +29,7 @@ Actualmente enfocado en el desarrollo de plataformas de alto impacto comercial y
 
 - 🌐 **[ModulGestión](https://modulgestion.com)**: Ecosistema central y núcleo (Framework propio) para la expansión corporativa y comercial en LatAm.
 - 🇻🇪 **[Gestión Venezuela](https://gestionvenezuela.com)**: Despliegue de módulos comerciales y entorno de producción real para el mercado de Venezuela.
-- 💼 **[Consultoría Aldo E. Martinez](https://aldoemartinez.com)**: Asesoría tecnocrática, estratégica y de desarrollo independiente.
+- 💼 **[Aldo E. Martinez](https://aldoemartinez.com)**: Asesoría tecnocrática, estratégica y de desarrollo independiente.
 
 ---
 
